@@ -4,6 +4,7 @@ Pay Attention to MLPs
 [arXiv](https://arxiv.org/abs/2105.08050)
 </h1>
 
+![Model](https://github.com/dslisleedh/gMLPs-tensorflow2/blob/master/Model.PNG)
 
 <h3>
 요약 :  
