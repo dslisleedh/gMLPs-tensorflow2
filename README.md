@@ -8,7 +8,7 @@ Pay Attention to MLPs
 
 <h3>
 요약 :  
-Spatial Gating Unit(SGU)을 제안함. SGU 전의 Channel FC로 Channel을 늘린 후, SGU 안에서 절반만 split(Gating)한 후 절반을 Spatial FC에 넣은 후 element wise product로 합침.  
+Spatial Gating Unit(SGU)을 제안함. SGU 전의 Channel FC로 Channel을 늘린 후 뒤 절반만 split(Gating)하여 Spatial FC에 넣은 다음 Spatial FC를 거치지 않은 나머지 절반과 element wise product로 합침.  
 </h3>
 
 <h5>
