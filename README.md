@@ -16,5 +16,5 @@ Gated split이 channel 정보를 갖지 않는다는 점에서 SE Block과 차�
 주의 :  
 Spatial FC의 Bias는 1로 initialization함. 학습 초반에 더 안정화 하는 것이 목적임. 
   
-[ResMLP](https://github.com/dslisleedh/ResMLP-tensorflow2)의 Affine layer와 유사
+[ResMLP](https://github.com/dslisleedh/ResMLP-tensorflow2)의 Affine layer에서 Affine layer 이후의 값을 1로 만들어 주기 위해 노력했던 것과 유사함
 </h5>
